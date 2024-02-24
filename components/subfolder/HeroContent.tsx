@@ -34,7 +34,12 @@ const HeroContent = () => {
         <motion.p
         variants={slideInFromLeft(0.8)}
         className='text-lg text-gray-400 my-5 max-w-[600px]'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quisquam obcaecati qui, saepe excepturi esse nisi adipisci numquam, sit quam ducimus expedita accusamus, sed doloribus quasi aperiam. Possimus delectus praesentium porro, dignissimos quos iste!
+          Hello, I'm Harsh Prakash. I'm pursuing B.Tech in Computer Science
+              and Engineering in RCC Institute of Inforamtion
+              Technology,Kolkata. As a B.Tech student, I always try to follow my
+              passion/dream of becoming a Software Engineering and showcase my
+              skill and talent to the world and work very hard to improve and
+              learn new skills every single Day.
         </motion.p>
 
         <motion.a
