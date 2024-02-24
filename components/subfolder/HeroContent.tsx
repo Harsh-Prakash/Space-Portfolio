@@ -34,7 +34,7 @@ const HeroContent = () => {
         <motion.p
         variants={slideInFromLeft(0.8)}
         className='text-lg text-gray-400 my-5 max-w-[600px]'>
-          Hello, I'm Harsh Prakash. I'm pursuing B.Tech in Computer Science
+          Hello, I am Harsh Prakash. I am pursuing B.Tech in Computer Science
               and Engineering in RCC Institute of Inforamtion
               Technology,Kolkata. As a B.Tech student, I always try to follow my
               passion/dream of becoming a Software Engineering and showcase my
